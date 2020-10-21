@@ -3,6 +3,7 @@
 This is a Point of Sales App, built using VueJS as framework and Vuex as state management. This app can handle basic CRUD operation for product. Users have to login or register to get token for accessing this app. This app is connected with online API in AWS server with redis applied to the server so data loading can be faster, thus creating better user experience.
 
 This Repository Front-End : https://github.com/Alfahan/pos-foodcourt.git
+
 This Repository Back-End : https://github.com/Alfahan/POS-API.git
 
 You Can try This App : http://54.164.193.160:8085/

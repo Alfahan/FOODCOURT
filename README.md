@@ -6,7 +6,7 @@ This Repository Front-End : https://github.com/Alfahan/pos-foodcourt.git
 
 This Repository Back-End : https://github.com/Alfahan/POS-API.git
 
-You Can try This App : https://bityl.co/47Vy
+You Can try This App : http://bit.ly/POS-Foodcourt
 
 Role Owner:
 ![Screenshot from 2020-10-21 10-09-41](https://user-images.githubusercontent.com/49190810/96668786-1d1e4300-1386-11eb-82b6-86a12cf69358.png)

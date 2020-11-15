@@ -10,6 +10,7 @@ You Can try This App : http://bit.ly/POS-Foodcourt
 
 Owner: 
 Email     : ali.farhan160@gmail.com 
+
 password  : 12345
 
 Role Owner:
